@@ -1,0 +1,78 @@
+{
+    "data":{
+        "Books":{
+            "Book1":{
+                "title":"Vahana Masterclass",
+                "author":"Alfredo Coveli",
+                "edition":5,
+                "bookId":1,
+                "liked":false,
+                "readLater":false
+            },
+            "Book2":{
+                "title":"Right Under Our Nose",
+                "author":"R.Giridharan",
+                "edition":3,
+                "bookId":2,
+                "liked":false,
+                "readLater":false 
+            },
+            "Book3":{
+                "title":"India’s 71-Year Test: The Journey to Triumph in Australia",
+                "author":"R. Kaushik",
+                "edition":7,
+                "bookId":3,
+                "liked":false,
+                "readLater":false 
+
+            },
+            "Book4":{
+                "title":"Making of a General-A Himalayan Echo",
+                "author":"Lt. Gen. Konsam Himalay Singh",
+                "edition":9,
+                "bookId":4,
+                "liked":false,
+                "readLater":false 
+
+            },
+            "Book5":{
+                "title":"Gazing Eastwards: Of Buddhist Monks and Revolutionaries in China, 1957",
+                "author":"Romila Thapar",
+                "edition":12,
+                "bookId":5,
+                "liked":false,
+                "readLater":false
+
+            },
+            "Book6":{
+                "title":"The Commonwealth of Cricket",
+                "author":"Ramachandra Guha",
+                "edition":2,
+                "bookId":6,
+                "liked":false,
+                "readLater":false
+
+            }
+        },
+        "Admin":{
+            "Admin1":{
+                "email":"rohan@gmail.com",
+                "password":"rohan123",
+                "admin":"Rohan"
+           }
+        },
+        "Users":{
+            "User1":{
+                "email":"maya@gmail.com",
+                "password":"maya123",
+                "username":"Maya"
+            },
+            "User2":{
+                "email":"john@gmail.com",
+                "password":"john123",
+                "username":"John"
+            }
+
+        }
+    }
+}
